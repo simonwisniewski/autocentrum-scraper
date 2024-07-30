@@ -10,7 +10,7 @@ This project is designed to scrape car data from the Auto Centrum website, gener
 
 ```bash
 git clone https://github.com/simonwisniewski/autocentrum-scraper.git
-cd auto-centrum-scraper
+cd autocentrum-scraper
 ```
 
 2. Install the required gems:
@@ -36,5 +36,5 @@ rspec
 #### To generate documentation
 
 ```bash
-rdoc --exlude reports
+rdoc --exclude reports
 ```
