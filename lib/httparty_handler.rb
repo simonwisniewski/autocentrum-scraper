@@ -13,7 +13,7 @@ class HttpartyHandler
   default_timeout 20
 
   # Logger for HTTP request errors and information
-  @logger = ::Logger.new('./logs/httparty_handler.log', 1_024_000)
+  @logger = ::Logger.new('./logs/httparty_handler.log', shift_age = 0, shift_size = 0)
   @max_attempts = 5
   @delay = 1
   @max_delay = 16
@@ -52,7 +52,7 @@ class HttpartyHandler
         raise
       end
     ensure
-      @@semaphore.release
+      @semaphore.release
     end
   end
 

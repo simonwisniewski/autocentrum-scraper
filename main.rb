@@ -25,7 +25,7 @@ class Main
     @report_file = './reports/report.csv'
     @car_urls = Set.new
     @car_counter = 0
-    @logger = Logger.new('./logs/main.log', 1_024_000)
+    @logger = Logger.new('./logs/main.log', shift_age = 0, shift_size = 0)
 
     check_and_load_existing_report
     fetch_and_parse_sitemap
@@ -129,7 +129,7 @@ class Main
     begin
       scraper = Scraper.new(version_or_engine_data)
       version_details = scraper.scrap
-      return if version_details.nil?
+      return if version_details.nil? || version_details.size < 2
 
       car = Car.new(version_details)
       @car_counter += 1

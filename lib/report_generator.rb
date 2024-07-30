@@ -30,13 +30,6 @@ class ReportGenerator
       cars << car
     end
     puts "Read #{cars.size} cars from file."
-
-    if cars.any?
-      most_features_car = car_with_most_features(cars)
-      puts "Car with most features: #{most_features_car.print_url}"
-    else
-      puts 'No cars read from file.'
-    end
     cars
   end
 
@@ -85,6 +78,5 @@ class ReportGenerator
       end
     end
     puts colorize('Report generated and saved to report.csv.', 32)
-    puts "Car with most features: #{most_features_car.print_url}"
   end
 end
