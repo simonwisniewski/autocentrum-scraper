@@ -23,7 +23,18 @@ class Scraper
   def scrap
     response = HttpartyHandler.get(@url)
     html = Nokogiri::HTML(response)
-    @features['URL'] = @url
+    name_element = html.at_xpath('//div/h1[@class="site-title"]')
+    url_parts = @url.split('/')
+    @features['Marka'] = url_parts[4] || 'brak danych'
+    @features['Model'] = url_parts[5] || 'brak danych'
+    if name_element
+      name = name_element.text.strip
+      name_parts = name.sub('Dane techniczne ', '')
+      @features['Dodatkowe'] = name_parts
+    else
+      @features['Dodatkowe'] = 'brak danych'
+    end
+    @features['URL'] = @url || 'brak danych'
     html.xpath('//div[@class="dt-row" or @class="dt-row no-value"]').each do |row|
       label_element = row.at_xpath('.//div[@class="dt-row__text__content"]')
       value_element = row.at_xpath('.//span[@class="dt-param-value"]')
@@ -35,6 +46,9 @@ class Scraper
       # Debugging information
       # puts "[#{@name}]Label: #{label}, Value: #{value}"
       @features[label] = value
+    end
+    if @features.values[4..-1].all? { |value| value == 'brak danych' || value == 'brak etykiety' }
+      return
     end
     @features
   end

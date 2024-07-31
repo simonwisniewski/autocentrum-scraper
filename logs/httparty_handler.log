@@ -18,3 +18,208 @@ E, [2024-07-30T12:28:22.839884 #63047] ERROR -- : Connection error: Failed to op
 E, [2024-07-30T12:28:30.492153 #63047] ERROR -- : Connection error: Net::OpenTimeout
 E, [2024-07-30T12:28:30.492534 #63047] ERROR -- : Connection error: Net::OpenTimeout
 E, [2024-07-30T12:28:30.495275 #63047] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:31:31.813099 #3317] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T09:34:54.325734 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:34:54.382678 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:37:43.900471 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:37:46.296983 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:37:56.614932 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.260842 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.261256 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.356655 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.357158 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.357254 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.365984 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.367127 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.374206 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.375647 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.386554 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.431160 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.493391 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.542079 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.591621 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.794197 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.813153 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:01.963950 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:04.999473 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:07.347744 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:07.872752 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:08.165809 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:09.002492 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:09.066622 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:09.333391 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:09.333586 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:09.699047 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:09.771396 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:09.906479 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:09.906843 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.043966 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.052714 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.270980 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.283835 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.284312 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.394924 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.395338 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.400578 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.406467 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.409749 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.412402 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.424553 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.427752 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.468708 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.469295 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.469762 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.477612 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.480993 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.677782 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.678835 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.678258 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.679250 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.681727 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.682032 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.691951 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.692117 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.692427 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.698504 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.783981 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.784555 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.784925 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.785589 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.787399 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.787883 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.788339 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.809353 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.809649 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.813646 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.821007 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.823969 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.843116 #8561] ERROR -- : Connection error: SSL_read: unexpected eof while reading
+E, [2024-07-31T09:38:10.889421 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:10.897034 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:10.897240 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:11.083423 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:12.435849 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:12.436950 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:12.436516 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:12.436804 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:12.437046 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:12.436060 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:12.522237 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:12.522572 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:12.525739 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:12.525833 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:12.725769 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:14.776053 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:14.776198 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:14.776570 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:14.777077 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:14.777197 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:14.776910 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:14.777340 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:14.778423 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:14.777692 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:14.778316 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:14.777593 #8561] ERROR -- : Connection error: Net::OpenTimeout
+E, [2024-07-31T09:38:20.796741 #8561] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T09:38:24.999399 #8561] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T09:38:25.004130 #8561] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T09:38:25.010601 #8561] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T09:38:25.020850 #8561] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T09:38:25.029107 #8561] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T09:41:23.823086 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:41:24.903577 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:41:26.199984 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:41:26.417770 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:41:27.200604 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:41:28.480559 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:41:36.489274 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:41:43.089321 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:41:47.849235 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:41:54.099243 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:42:08.833033 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:42:25.927437 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:42:27.960312 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:43:26.543689 #8561] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T09:43:26.673856 #8561] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T09:43:26.680143 #8561] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T09:48:57.533400 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:48:57.826965 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:49:01.531828 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:51:18.781311 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:51:23.040097 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:51:23.875904 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:51:25.755885 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:51:26.095924 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:51:26.877179 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:51:27.865859 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:51:27.877532 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:51:33.307802 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:20.784240 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:23.987354 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:28.247210 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:30.847151 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:31.797186 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:32.518997 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:37.664208 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:40.563402 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:40.787161 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:42.707306 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:44.296722 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:44.886577 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:49.612644 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:49.728031 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:50.806439 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:53.656825 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:55.016557 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:55:58.716519 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:56:01.087782 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:56:01.906579 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:56:02.827810 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:56:05.136765 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T09:56:12.750508 #8561] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:03:56.261684 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:03:57.337476 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:03:57.414246 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:05.218105 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:08.208379 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:08.788898 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:09.918208 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:09.928098 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:10.865459 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:14.587623 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:16.718175 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:16.941743 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:23.223483 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:27.048070 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:28.158071 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:04:30.414640 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:13.974361 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:15.405765 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:15.515915 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:15.721843 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:15.797694 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:15.909783 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:15.909928 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:15.925701 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:18.125539 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:20.879561 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:20.879773 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:20.879906 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:27.675742 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:35.567126 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:38.916355 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:39.348072 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T10:05:45.465300 #46527] ERROR -- : Connection error: Net::ReadTimeout with #<TCPSocket:(closed)>
+E, [2024-07-31T11:06:54.935888 #64778] ERROR -- : Connection error: SSL_connect returned=1 errno=0 peeraddr=193.17.41.39:443 state=error: unexpected eof while reading
+E, [2024-07-31T11:06:54.935998 #64778] ERROR -- : Connection error: SSL_connect returned=1 errno=0 peeraddr=193.17.41.39:443 state=error: unexpected eof while reading
+E, [2024-07-31T11:06:55.413726 #64778] ERROR -- : Connection error: SSL_connect returned=1 errno=0 peeraddr=193.17.41.39:443 state=error: unexpected eof while reading
+E, [2024-07-31T11:06:57.627256 #64778] ERROR -- : Connection error: SSL_connect returned=1 errno=0 peeraddr=193.17.41.39:443 state=error: unexpected eof while reading
+E, [2024-07-31T11:06:59.665032 #64778] ERROR -- : Connection error: SSL_connect returned=1 errno=0 peeraddr=193.17.41.39:443 state=error: unexpected eof while reading
+E, [2024-07-31T11:06:59.667164 #64778] ERROR -- : Connection error: SSL_connect returned=1 errno=0 peeraddr=193.17.41.39:443 state=error: unexpected eof while reading
+E, [2024-07-31T11:07:20.484561 #64778] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T11:07:20.484722 #64778] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T11:07:20.547820 #64778] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T11:07:32.644634 #64778] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T11:07:33.082728 #64778] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T11:07:33.148347 #64778] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
+E, [2024-07-31T11:07:33.148648 #64778] ERROR -- : Connection error: Failed to open TCP connection to www.autocentrum.pl:443 (execution expired)
